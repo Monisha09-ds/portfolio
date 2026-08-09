@@ -208,13 +208,21 @@ __marimo__/
 
 
 
-GPU_Architecture_Interview_Guide.md
+# Internal docs / notes (not part of the published portfolio)
+CHATBOT_ARCHITECTURE.md
 CONVERSATIONAL_TESTING_GUIDE.md
+GPU_Architecture_Interview_Guide.md
 HYBRID_CHATBOT_GUIDE.md
+IMPROVEMENT_SUGGESTIONS.md
+INTELLIGENT_FEATURES_GUIDE.md
 TESTING_GUIDE.md
+
+# Local tooling / scratch output
+code2text.py
+codebase.txt
+codebase_content.txt
 start.sh
 
-code2text.py
-codebase_content.txt
-codebase.txt
+# Work-in-progress page
+index2.html
 
